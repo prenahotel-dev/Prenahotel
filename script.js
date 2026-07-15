@@ -1,0 +1,1 @@
+console.log('Prena Hotel website loaded');

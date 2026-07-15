@@ -1,0 +1,1 @@
+Upload all files to your GitHub repository, then enable GitHub Pages in Settings > Pages.
